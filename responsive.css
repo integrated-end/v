@@ -50,11 +50,16 @@
     .top-wrapper {
       text-align: left;
     }
+
+    #faq-list {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+    list-style: none;
+  }  
       
 
-     .faq-list-item {
-    width: 100%;
-  } 
+   
   
     /* header-rightクラスのdisplayをnoneに指定してください */
     .header-right {
